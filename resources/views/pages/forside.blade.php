@@ -7,7 +7,7 @@
         <div class="w-[80%]">
             <main class="bg-gray-700 px-4 py-2 rounded-2xl">
                 <h1 class="text-center text-3xl font-bold">
-                    Forside
+                    Forside Test
                 </h1>
                 <hr class="my-2">
                 <p class="text-center">
